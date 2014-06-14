@@ -1,0 +1,232 @@
+{
+    "shortName": "ninety hank Univ",
+    "versionCode": 2,
+    "watchapp": {
+        "watchface": true
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "versionLabel": "2.0",
+    "companyName": "Dersie",
+    "longName": "ninety_hank_Univ",
+    "appKeys": {
+        "p_lang": 4,
+        "p_long": 7,
+        "p_gps": 8,
+        "z_mn_home": 10,
+        "p_lat": 6,
+        "z_utc": 1,
+        "z_mn_utc": 9,
+        "p_rever": 5,
+        "z_current": 3,
+        "z_home": 2
+    },
+    "uuid": "03cdc57a-559a-4769-8a88-b505eaea114c",
+    "resources": {
+        "media": [
+            {
+                "file": "images/moon_7.png",
+                "name": "IMAGE_MOON_7",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_6.png",
+                "name": "IMAGE_MOON_6",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_5.png",
+                "name": "IMAGE_MOON_5",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_4.png",
+                "name": "IMAGE_MOON_4",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_3.png",
+                "name": "IMAGE_MOON_3",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_2.png",
+                "name": "IMAGE_MOON_2",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_1.png",
+                "name": "IMAGE_MOON_1",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_0.png",
+                "name": "IMAGE_MOON_0",
+                "type": "png"
+            },
+            {
+                "file": "images/num_9.png",
+                "name": "IMAGE_NUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/num_8.png",
+                "name": "IMAGE_NUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/num_7.png",
+                "name": "IMAGE_NUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/num_6.png",
+                "name": "IMAGE_NUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/num_5.png",
+                "name": "IMAGE_NUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/num_4.png",
+                "name": "IMAGE_NUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/num_3.png",
+                "name": "IMAGE_NUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/num_2.png",
+                "name": "IMAGE_NUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/num_1.png",
+                "name": "IMAGE_NUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/num_0.png",
+                "name": "IMAGE_NUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_9.png",
+                "name": "IMAGE_DATENUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_8.png",
+                "name": "IMAGE_DATENUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_7.png",
+                "name": "IMAGE_DATENUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_6.png",
+                "name": "IMAGE_DATENUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_5.png",
+                "name": "IMAGE_DATENUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_4.png",
+                "name": "IMAGE_DATENUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_3.png",
+                "name": "IMAGE_DATENUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_2.png",
+                "name": "IMAGE_DATENUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_1.png",
+                "name": "IMAGE_DATENUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_0.png",
+                "name": "IMAGE_DATENUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/day_sat.png",
+                "name": "IMAGE_DAY_NAME_SAT",
+                "type": "png"
+            },
+            {
+                "file": "images/day_fri.png",
+                "name": "IMAGE_DAY_NAME_FRI",
+                "type": "png"
+            },
+            {
+                "file": "images/day_thu.png",
+                "name": "IMAGE_DAY_NAME_THU",
+                "type": "png"
+            },
+            {
+                "file": "images/day_wed.png",
+                "name": "IMAGE_DAY_NAME_WED",
+                "type": "png"
+            },
+            {
+                "file": "images/day_tue.png",
+                "name": "IMAGE_DAY_NAME_TUE",
+                "type": "png"
+            },
+            {
+                "file": "images/day_mon.png",
+                "name": "IMAGE_DAY_NAME_MON",
+                "type": "png"
+            },
+            {
+                "file": "images/day_sun.png",
+                "name": "IMAGE_DAY_NAME_SUN",
+                "type": "png"
+            },
+            {
+                "file": "images/time_format_PM.png",
+                "name": "IMAGE_PM_MODE",
+                "type": "png"
+            },
+            {
+                "file": "images/time_format_24H.png",
+                "name": "IMAGE_24_HOUR_MODE",
+                "type": "png"
+            },
+            {
+                "file": "images/icon_meter.png",
+                "name": "IMAGE_METER_BAR",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "menuIcon": true,
+                "file": "images/menu_icon_91w.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    }
+}
